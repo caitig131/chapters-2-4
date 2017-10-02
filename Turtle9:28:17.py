@@ -1,0 +1,10 @@
+import turtle
+wn = turtle.Screen()
+tess = turtle.Turtle()
+tess.forward(90)
+tess.down(100)
+tess.left(3)
+tess.right(-90)
+tess.left(3)
+tess.left(3645)
+tess.forward(-100)
